@@ -33,6 +33,25 @@ let mySampleObject = {
 
 //Make sure to make at least 3 animal objects with these keys inside of the myZooAnimals array!
 
-let myZooAnimals;
+let myZooAnimals = [
+  {
+    animalType: "Asian Elephant",
+    name: "Owala",
+    age: 15,
+    pictureURL: "https://www.phoenixzoo.org/wp-content/uploads/2022/02/indu1.jpg"
+  },
+  {
+    animalType: "Greater Malayan Chevrotain",
+    name: "Chalini",
+    age: 2,
+    pictureURL: "https://www.phoenixzoo.org/wp-content/uploads/2022/08/Chevrotain2-768x537.jpg"
+  },
+  {
+    animalType: "Cownose Stingray",
+    name: "Saoirse",
+    age: 5,
+    pictureURL: "https://www.phoenixzoo.org/wp-content/uploads/2020/01/2016-12-21_fixed02-300x200.jpg"
+  }
+];
 
 //END OF ASSIGNMENT
